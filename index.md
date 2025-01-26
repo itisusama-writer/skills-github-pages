@@ -1,6 +1,3 @@
 ---
-title: Welcome to my blog
+title: Welcome to my Stories
 ---
-
-# Usama Hassan 
-Okay so this is my first content step 3
